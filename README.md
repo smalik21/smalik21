@@ -78,4 +78,6 @@
 
 <br clear="both">
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5aGxkN21qMjl0cDZ2dHY0cXZyODZrOG11cHF1eXJqMTQ4aXV5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" height="100" /></a>
+
 ###

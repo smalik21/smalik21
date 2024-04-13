@@ -1,5 +1,3 @@
-<h3 align="left">Sahil (Developer)</h3>
-
 ###
 
 <div align="center">

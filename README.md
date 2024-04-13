@@ -7,11 +7,11 @@
 
 ###
 
-<img align="right" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5aGxkN21qMjl0cDZ2dHY0cXZyODZrOG11cHF1eXJqMTQ4aXV5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vbu9Ud0Z6ibwjxTZYQ/giphy.webp"  />
+<img align="right" width="25%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5aGxkN21qMjl0cDZ2dHY0cXZyODZrOG11cHF1eXJqMTQ4aXV5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vbu9Ud0Z6ibwjxTZYQ/giphy.webp"  />
 
 ###
 
-<div align="left">
+<div align="left" width="75%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/smalik21/smalik21/output/snake.svg" alt="Snake animation" />
+<img width="75%" src="https://raw.githubusercontent.com/smalik21/smalik21/output/snake.svg" alt="Snake animation" />
 
 ###

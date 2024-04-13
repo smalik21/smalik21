@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/smalik21/smalik21/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://raw.githubusercontent.com/smalik21/smalik21/output/snake.svg" alt="Snake animation" />
 
 ###
